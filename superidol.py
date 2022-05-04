@@ -1,0 +1,1 @@
+print("super idol de xiao rong dou mei ni de tian")
